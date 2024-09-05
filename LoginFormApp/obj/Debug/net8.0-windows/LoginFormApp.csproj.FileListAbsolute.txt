@@ -1,0 +1,17 @@
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\bin\Debug\net8.0-windows\LoginFormApp.exe
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\bin\Debug\net8.0-windows\LoginFormApp.deps.json
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\bin\Debug\net8.0-windows\LoginFormApp.runtimeconfig.json
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\bin\Debug\net8.0-windows\LoginFormApp.dll
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\bin\Debug\net8.0-windows\LoginFormApp.pdb
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\obj\Debug\net8.0-windows\LoginFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\obj\Debug\net8.0-windows\LoginFormApp.AssemblyInfoInputs.cache
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\obj\Debug\net8.0-windows\LoginFormApp.AssemblyInfo.cs
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\obj\Debug\net8.0-windows\LoginFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\obj\Debug\net8.0-windows\LoginFormApp.dll
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\obj\Debug\net8.0-windows\refint\LoginFormApp.dll
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\obj\Debug\net8.0-windows\LoginFormApp.pdb
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\obj\Debug\net8.0-windows\LoginFormApp.genruntimeconfig.cache
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\obj\Debug\net8.0-windows\ref\LoginFormApp.dll
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\obj\Debug\net8.0-windows\LoginFormApp.csproj.AssemblyReference.cache
+C:\Users\Karl\Documents\OOP Login Form\LoginFormApp\obj\Debug\net8.0-windows\LoginFor.B97B04E1.Up2Date
